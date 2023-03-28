@@ -1,3 +1,3 @@
-pub fn main() {
+fn main() {
     rintln!("Hello, world!");
 }
